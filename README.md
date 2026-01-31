@@ -2,11 +2,11 @@
 
 A tiny planet exploration game built with Three.js. Walk around miniature spherical worlds with realistic gravity, mine terrain, and explore.
 
-![Mote Screenshot](screenshot.png)
+<!-- ![Mote Screenshot](screenshot.png) -->
 
 ## Play
 
-Visit the live demo: [https://yourusername.github.io/mote](https://yourusername.github.io/mote)
+Visit the live demo: [https://nickelm.github.io/mote](https://nickelm.github.io/mote)
 
 Or run locally:
 ```bash
